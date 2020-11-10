@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/panteon-dashboard/static/css/main.ef6c5c3e.chunk.css",
+    "main.js": "/panteon-dashboard/static/js/main.789fde85.chunk.js",
+    "main.js.map": "/panteon-dashboard/static/js/main.789fde85.chunk.js.map",
+    "runtime-main.js": "/panteon-dashboard/static/js/runtime-main.eedc9322.js",
+    "runtime-main.js.map": "/panteon-dashboard/static/js/runtime-main.eedc9322.js.map",
+    "static/css/2.9e201c83.chunk.css": "/panteon-dashboard/static/css/2.9e201c83.chunk.css",
+    "static/js/2.cab2ff4d.chunk.js": "/panteon-dashboard/static/js/2.cab2ff4d.chunk.js",
+    "static/js/2.cab2ff4d.chunk.js.map": "/panteon-dashboard/static/js/2.cab2ff4d.chunk.js.map",
+    "static/js/3.4b370e09.chunk.js": "/panteon-dashboard/static/js/3.4b370e09.chunk.js",
+    "static/js/3.4b370e09.chunk.js.map": "/panteon-dashboard/static/js/3.4b370e09.chunk.js.map",
+    "index.html": "/panteon-dashboard/index.html",
+    "static/css/2.9e201c83.chunk.css.map": "/panteon-dashboard/static/css/2.9e201c83.chunk.css.map",
+    "static/css/main.ef6c5c3e.chunk.css.map": "/panteon-dashboard/static/css/main.ef6c5c3e.chunk.css.map",
+    "static/js/2.cab2ff4d.chunk.js.LICENSE.txt": "/panteon-dashboard/static/js/2.cab2ff4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eedc9322.js",
+    "static/css/2.9e201c83.chunk.css",
+    "static/js/2.cab2ff4d.chunk.js",
+    "static/css/main.ef6c5c3e.chunk.css",
+    "static/js/main.789fde85.chunk.js"
+  ]
+}
