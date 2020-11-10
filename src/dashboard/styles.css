@@ -1,0 +1,15 @@
+.main-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.card-container {
+  flex-direction: row;
+  display: flex;
+  flex: 1;
+}
+.topChart-card {
+  width: 50%;
+  justify-content: flex-end;
+  display: flex;
+}

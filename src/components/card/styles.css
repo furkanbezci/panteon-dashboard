@@ -1,0 +1,8 @@
+.header {
+  font-size: 17;
+  height: 100;
+  display: "flex";
+  align-items: "center";
+  padding-left: 20;
+  font-weight: "bold";
+}
