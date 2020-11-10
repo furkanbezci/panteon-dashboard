@@ -118,7 +118,7 @@ export default class Dashboard extends Component {
         <CardContainer
           initialTop={100}
           initialLeft={100}
-          initialWidth={700}
+          initialWidth={500}
           data={topChartData}
           header="Top Charts"
           onScroll={this.scrollHandlerTopCharts}
@@ -126,7 +126,7 @@ export default class Dashboard extends Component {
         <CardContainer
           initialTop={100}
           initialLeft={810}
-          initialWidth={600}
+          initialWidth={500}
           data={trackedAppsData}
           header="Tracked Apps"
           onScroll={this.scrollHandlerTrackedApps}
@@ -134,7 +134,7 @@ export default class Dashboard extends Component {
         <CardContainer
           initialTop={600}
           initialLeft={100}
-          initialWidth={700}
+          initialWidth={500}
           initialTop={450}
           data={appSuggestions}
           header="App Suggestions"
@@ -144,7 +144,7 @@ export default class Dashboard extends Component {
         <Window
           initialTop={600}
           initialLeft={810}
-          initialWidth={600}
+          initialWidth={500}
           initialTop={450}
           modal={false}
           resizable={true}

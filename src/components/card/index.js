@@ -6,8 +6,15 @@ import StarRatings from "react-star-ratings";
 const CardHeader = ({ title }) => {
   return (
     <ListViewHeader
-    
-      className="k-list-header pl-4 pb-2 pt-2"
+      style={{
+        fontSize: 17,
+        display: "flex",
+        alignItems: "center",
+        fontWeight: "bold",
+        marginLeft: 10,
+        padding: 10,
+      }}
+      className="pl-4 pb-2 pt-2"
     >
       Top Charts
     </ListViewHeader>

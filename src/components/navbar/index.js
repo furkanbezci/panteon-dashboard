@@ -9,7 +9,7 @@ export default class Navbar extends Component {
           <li>
             <a href="index.html">
               <img
-                src={"images/dashboardImages/logo.png"}
+                src={"/panteon-dashboard/images/dashboardImages/logo.png"}
                 alt="logo"
                 className="logo-style"
               />
@@ -19,7 +19,7 @@ export default class Navbar extends Component {
             <a href="index.html">
               <div className="dashboard-icon-container">
                 <img
-                  src={"/images/dashboardImages/dashboardMenuIcon.png"}
+                  src={"/panteon-dashboard/images/dashboardImages/dashboardMenuIcon.png"}
                   alt="dashboard"
                   className="menuIcon"
                 />
