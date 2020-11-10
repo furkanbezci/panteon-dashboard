@@ -1394,6 +1394,7 @@ nav.user-menu .panel .list-group-item .time-ago {
 .logo {
   float: left;
   width: 15%;
+  margin-left: 100px;
 }
 .logo h1 a img {
   margin-right: 0.5em;
