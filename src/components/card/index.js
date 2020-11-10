@@ -2,24 +2,12 @@ import { IoMdArrowDropup } from "react-icons/io";
 import { RiArrowDownSFill } from "react-icons/ri";
 import { ListViewHeader } from "@progress/kendo-react-listview";
 import StarRatings from "react-star-ratings";
-import {
-  Card,
-  CardTitle,
-  CardImage,
-  CardSubtitle,
-} from "@progress/kendo-react-layout";
+
 const CardHeader = ({ title }) => {
   return (
     <ListViewHeader
-      style={{
-        fontSize: 17,
-        display: "flex",
-        alignItems: "center",
-        fontWeight: "bold",
-        marginLeft: 10,
-        padding: 10,
-      }}
-      className="pl-4 pb-2 pt-2"
+    
+      className="k-list-header pl-4 pb-2 pt-2"
     >
       Top Charts
     </ListViewHeader>
@@ -53,7 +41,7 @@ const CardItemRender = (props) => {
             }}
           >
             <img
-              src={"/images/appIcons/" + item.iconName}
+              src={"/panteon-dashboard/images/appIcons/" + item.iconName}
               style={{ width: "65%", borderRadius: 12, marginTop: 6 }}
             />
           </div>
@@ -62,7 +50,7 @@ const CardItemRender = (props) => {
             <label>{item.name}</label>
             <br />
             <img
-              src={"/images/flags/" + item.country + ".png"}
+              src={"/panteon-dashboard/images/flags/" + item.country + ".png"}
               style={{ width: "5%" }}
             />
             <label
